@@ -1,0 +1,9 @@
+Title: Commercial Model - Caldera Energy
+Year: 2019
+Section: pricing_commercials
+Sensitivity: RESTRICTED
+
+Pricing based on the fixed capacity model retired in 2022. Blended rate 620
+USD per day with a minimum committed volume of 2,400 days annually. This
+commercial structure is no longer offered and should not be used as a
+reference for current bids.

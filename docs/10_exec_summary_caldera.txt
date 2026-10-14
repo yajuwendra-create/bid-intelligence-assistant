@@ -1,0 +1,9 @@
+Title: Executive Summary - Caldera Energy
+Year: 2019
+Section: executive_summary
+Sensitivity: internal 
+
+Caldera Energy sought a partner to modernise its field operations platform
+and reduce unplanned downtime. Our proposal combined platform modernisation
+with a predictive maintenance capability. The engagement ran for 22 months and
+delivered a measured reduction in unplanned outages.

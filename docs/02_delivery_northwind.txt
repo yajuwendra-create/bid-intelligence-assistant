@@ -1,0 +1,13 @@
+Title: Delivery Approach - Northwind Logistics
+Client: Northwind Logistics
+Year: 2023
+Section: delivery_plan
+Sensitivity: internal 
+Outcome: won
+
+Delivery follows a three-phase model. Phase one establishes the landing zone
+and migrates two non-critical workloads to validate the approach. Phase two
+migrates the core fleet management platform over nine weeks with parallel
+running. Phase three decommissions legacy infrastructure. A dedicated
+transition manager is embedded with the client throughout. Weekly steering
+reviews track against agreed exit criteria for each phase.

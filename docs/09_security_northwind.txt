@@ -1,0 +1,9 @@
+Title: Security and Compliance - Northwind Logistics
+Year: 2023
+Section: security_compliance
+Sensitivity: confidential 
+
+Controls are mapped to ISO 27001 and the client's internal control framework.
+Data in transit is encrypted end to end. Secrets are managed through a
+centralised vault with automatic rotation. Privileged access is granted just
+in time and expires automatically.

@@ -1,0 +1,12 @@
+Title: Case Study - European Retail Cloud Migration
+Client: Published case study
+Year: 2024
+Section: case_study
+Sensitivity: internal 
+Outcome: won
+
+A European retailer with 400 stores migrated its point of sale and inventory
+systems to cloud infrastructure over fourteen months. Transaction processing
+latency fell by 40 percent during peak trading. The client reported improved
+stock accuracy across the estate. This case study has been approved for
+external publication and client reference calls.

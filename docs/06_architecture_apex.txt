@@ -1,0 +1,13 @@
+Title: Technical Architecture - Apex
+ls docs
+ls docs
+ls docs
+cat > docs/01_security_meridian.txt << 'EOF'
+Title: Security Architecture - Meridian Health
+Year: 2024
+Section: security_compliance
+
+Our proposed security model moves away from traditional network perimeters.
+Access decisions are made per request, based on verified identity, device
+posture and contextual risk signals rather than network location. We refer to
+this as an identity-based perimeterless security model.

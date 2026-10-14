@@ -1,0 +1,14 @@
+Title: Security Architecture - Meridian Health
+Client: Meridian Health
+Year: 2024
+Section: security_compliance
+Sensitivity: internal 
+Outcome: won
+
+Our proposed security model moves away from traditional network perimeters.
+Access decisions are made per request, based on verified identity, device
+posture and contextual risk signals rather than network location. Every
+service authenticates every call. We refer to this as an identity-based
+perimeterless security model. All administrative access requires hardware
+token verification. Audit logging is immutable and retained for seven years
+to meet healthcare regulatory requirements.
