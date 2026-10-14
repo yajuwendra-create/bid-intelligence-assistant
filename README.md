@@ -7,7 +7,8 @@ Retrieval is filtered by clearance during ranking, not stripped from results
 afterwards — and when a document is withheld, the user is told it exists.
 
 ---
-
+![Delivery Lead view](screenshots/delivery-lead.png)
+![Bid Partner view](screenshots/bid-partner.png)
 ## The problem
 
 A bid manager at 11pm needs to know what security approach the firm proposed to
@@ -246,3 +247,4 @@ Python · `sentence-transformers` (BAAI/bge-base-en-v1.5) · NumPy · Anthropic 
 
 Built by [Yajuwendra Dixit](https://www.linkedin.com/in/yajuwendra-dixit) as an
 original portfolio project — product decisions and implementation both.
+
