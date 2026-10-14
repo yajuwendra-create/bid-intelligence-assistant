@@ -2,6 +2,15 @@
 #  BID INTELLIGENCE — UI
 #  Thin Streamlit front end over app.py.
 #
+#  TO RUN:
+#      cd ~/bid-intel
+#      source venv/bin/activate
+#      streamlit run ui.py
+#
+#  Opens at http://localhost:8501. Ctrl+C in the terminal to
+#  stop. The terminal stays occupied while it runs — open a
+#  second tab (Cmd+T) for git commands rather than stopping it.
+#
 #  Deliberately thin: all retrieval, filtering and generation
 #  logic lives in app.py. This file only draws widgets and
 #  passes their values through. If the UI needs business logic
