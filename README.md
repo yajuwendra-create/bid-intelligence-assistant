@@ -1,4 +1,6 @@
-# Bid Intelligence Assistant
+# ============================================================
+#  BID INTELLIGENCE
+# ============================================================
 
 A RAG system over enterprise proposal documents where **the same query returns
 different answers depending on the asker's entitlements**.
@@ -9,6 +11,7 @@ afterwards — and when a document is withheld, the user is told it exists.
 ---
 ![Delivery Lead view](screenshots/delivery-lead.png)
 ![Bid Partner view](screenshots/bid-partner.png)
+**[Product requirements →](PRD.md)** — users, scope, entitlement model, success metrics, launch dependencies.
 ## The problem
 
 A bid manager at 11pm needs to know what security approach the firm proposed to
